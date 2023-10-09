@@ -1,0 +1,5 @@
+jupyter
+opensearch-py
+pandas
+gradio
+boto3
