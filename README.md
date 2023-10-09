@@ -16,3 +16,7 @@ Install the dependencies
 Launch Jupyter Notebook
 
 	jupyter notebook
+
+To run Gradio app, launch the script
+
+	python chatbot.py
