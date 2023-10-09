@@ -5,10 +5,11 @@ Make sure you have an active AWS subscription and have access to Titan in us-wes
 
 Create a Python virtual environment
 	```python -m venv venv```
+	
 	```source venv/bin/activate```
 
 Install the dependencies
 	```pip install -r requirements.txt```
 
 Launch Jupyter Notebook
-	``jupyter notebook```	
+	```jupyter notebook```	
