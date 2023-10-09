@@ -4,12 +4,15 @@ Implementing RAG with Amazon Bedrock, Amazon Titan, and Amazon OpenSearch Server
 Make sure you have an active AWS subscription and have access to Titan in us-west-2 region.
 
 Create a Python virtual environment
-	```python -m venv venv```
-	
-	```source venv/bin/activate```
+
+	python -m venv venv
+
+	source venv/bin/activate
 
 Install the dependencies
-	```pip install -r requirements.txt```
+
+	pip install -r requirements.txt
 
 Launch Jupyter Notebook
-	```jupyter notebook```	
+
+	jupyter notebook
